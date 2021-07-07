@@ -1,6 +1,7 @@
 <?php
 
 $people = [
+  [ "name" => "Karlova Lesia", "Role" => "Student" ],
   [ "name" => "Pavel Butenko", "Role": "Student" ],
   [ "name" => "Bogdan Onischenko", "Role": "Speaker" ],
   [ "name" => "Artem Kuptsov", "Role": "Student" ],
@@ -8,6 +9,4 @@ $people = [
   [ "name" => "Vladyslav Cherniuk", "Role": "Student" ],
   [ "name" => "Oleg Savenok", "Role": "Student" ],
   [ "name" => "Yehor Hrytsenko",   "Role": "Student"],
-  [ "name" => "Karlova Lesia", "Role" => "Student" ],
 ];
-
