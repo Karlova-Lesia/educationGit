@@ -8,5 +8,5 @@ $people = [
   [ "name" => "Alexey Goncharov", "Role": "Student" ],
   [ "name" => "Vladyslav Cherniuk", "Role": "Student" ],
   [ "name" => "Oleg Savenok", "Role": "Student" ],
-  [ "name" => "Yehor Hrytsenko",   "Role": "Student"],
+  [ "name" => "Yehor Hrytsenko",   "Role": "Student"]
 ];
